@@ -7,3 +7,5 @@ The Paper followed: Testing Lorentz Invariance Emergence in the Ising Model usin
 - Supervisors: Krstić Marinković, Marina; Blas, Diego
 - Publication Type: [CERN Summer Student Report](https://cds.cern.ch/record/2280218/files/cern-summer-student.pdf)
 
+## Day 2: Mechanical Motion Solver
+Studied the dynamics of pendulum, parabolic, and tautochrone motion using Lagrangian mechanics.
