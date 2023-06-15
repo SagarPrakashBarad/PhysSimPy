@@ -12,5 +12,5 @@ Studied the dynamics of pendulum, parabolic, and tautochrone motion using Lagran
 
 ## Day 3: Monte Carlo Metrolpolis Simulation of 3D Ising Model [GPU only}
 The paper followed : "What does it take to solve the 3D Ising model? Minimal necessary conditions for a valid solution"
-Authors: G. M. Viswanathan, M. A. G. Portillo, E. P. Raposo, M. G. E. da Luz
-Paper: arXiv:2205.12357 [cond-mat.stat-mech]
+- Authors: G. M. Viswanathan, M. A. G. Portillo, E. P. Raposo, M. G. E. da Luz
+- Paper: [cond-mat.stat-mech](https://arxiv.org/abs/2205.12357)
